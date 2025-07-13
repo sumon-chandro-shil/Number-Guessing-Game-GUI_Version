@@ -1,6 +1,5 @@
 # Updated GUI Game: Now includes player name, score, and timer...
 
-# Library Import...
 import tkinter as tk
 import random
 import time
